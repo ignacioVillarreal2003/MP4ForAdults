@@ -1,6 +1,6 @@
 # MP4ForAdults
 
-Pequeño proyecto de python para descargar videos MP4 y audio en MP4.
+Pequeño proyecto de python para descargar videos MP4 y audio en MP3.
 Se uso:
 
 - Pytube
